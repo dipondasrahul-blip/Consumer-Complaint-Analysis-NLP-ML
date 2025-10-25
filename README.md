@@ -55,19 +55,22 @@ It identifies sentiment, complaint clusters, and potential fraud indicators from
 <div align="center">
 
 ### 📊 Sentiment Distribution of Consumer Complaints
-<img width="100%" alt="Sentiment Distribution Chart" src="https://github.com/user-attachments/assets/7fb7f554-5297-4b4c-8921-6fb0bba7b5d2" />
+<img width="100%" alt="Sentiment Distribution Chart" src="https://raw.githubusercontent.com/dipondasrahul-blip/Consumer-Complaint-Analysis-NLP-ML/main/Sentiment%20Distribution%20Chart.jpg" />
 *Figure 1: Overall sentiment polarity across complaint narratives.*
 
 ---
 
 ### 💬 Complaint Topic Clusters (LDA Visualization)
-<img width="100%" alt="Complaint Topic Clusters" src="https://github.com/user-attachments/assets/5fd78ba8-281a-4343-8e55-54857f54d48e" />
+<img width="100%" alt="Complaint Topic Clusters" src="https://raw.githubusercontent.com/dipondasrahul-blip/Consumer-Complaint-Analysis-NLP-ML/main/Complaint%20Topic%20Clusters.jpg" />
 *Figure 2: Key complaint themes extracted through topic modeling.*
 
 ---
 
 ### ⚠️ Confusion Matrix & ROC-AUC for Fraud Detection Model
-<img width="100%" alt="Confusion Matrix ROC-AUC Visualization" src="https://github.com/user-attachments/assets/64eae0e2-a28b-4dd1-9f53-0e6617a1260a" />
+
+<img width="100%" alt="Confusion Matrix ROC-AUC Visualization" src="![Confusion Matrix](https://github.com/user-attachments/assets/c130fddd-141e-414d-b449-39711e6fc9d3)
+" />
+
 *Figure 3: Model evaluation showing 98% accuracy and AUC = 0.995.*
 
 </div>
