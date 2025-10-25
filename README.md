@@ -68,7 +68,7 @@ It identifies sentiment, complaint clusters, and potential fraud indicators from
 
 ### ⚠️ Confusion Matrix & ROC-AUC for Fraud Detection Model
 
-<img width="100%" alt="Confusion Matrix ROC-AUC Visualization" src="https://raw.githubusercontent.com/dipondasrahul-blip/Consumer-Complaint-Analysis-NLP-ML/main/Confusion%20Matrix%20ROC-AUC%20Visualization.jpg" />
+<img width="100%" alt="Confusion Matrix ROC-AUC Visualization" src="https://raw.githubusercontent.com/dipondasrahul-blip/Consumer-Complaint-Analysis-NLP-ML/main/Confusion_Matrix.jpg" />
 
 *Figure 3: Model evaluation showing 98% accuracy and AUC = 0.995.*
 
